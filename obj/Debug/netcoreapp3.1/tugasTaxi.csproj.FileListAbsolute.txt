@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\bin\Debug\netcoreapp3.1\tugasTaxi.exe
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\bin\Debug\netcoreapp3.1\tugasTaxi.deps.json
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\bin\Debug\netcoreapp3.1\tugasTaxi.runtimeconfig.json
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\bin\Debug\netcoreapp3.1\tugasTaxi.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\bin\Debug\netcoreapp3.1\tugasTaxi.dll
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\bin\Debug\netcoreapp3.1\tugasTaxi.pdb
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\obj\Debug\netcoreapp3.1\tugasTaxi.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\obj\Debug\netcoreapp3.1\tugasTaxi.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\obj\Debug\netcoreapp3.1\tugasTaxi.AssemblyInfo.cs
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\obj\Debug\netcoreapp3.1\tugasTaxi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\obj\Debug\netcoreapp3.1\tugasTaxi.dll
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\obj\Debug\netcoreapp3.1\tugasTaxi.pdb
+C:\Users\ACER\source\repos\CS_02\tugasTaxi\obj\Debug\netcoreapp3.1\tugasTaxi.genruntimeconfig.cache
